@@ -7,7 +7,7 @@
   Tingwen Huang<sup>3</sup>, <i>Fellow, IEEE</i>&nbsp;
   <br>
   <sup>1</sup> UESTC&nbsp;&nbsp; <sup>2</sup> SWU&nbsp;&nbsp; <sup>3</sup> SUAT<br>
-  <sup>†</sup> Corresponding authors.<br>
+  <sup>†</sup> Corresponding author.<br>
 
   <h4>
     <a href="https://www.arxiv.org/pdf/2507.02445">📄 arXiv Paper</a> &nbsp; 
