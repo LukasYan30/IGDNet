@@ -6,7 +6,7 @@
   Junjian Huang<sup>2,†</sup>&nbsp;
   Tingwen Huang, Fellow, IEEE<sup>3</sup>&nbsp;
   <br>
-  <sup>1</sup> UESTC&nbsp;&nbsp; <sup>2</sup> SWU&nbsp;&nbsp; <sup>3</sup> SUAT-SZ<br>
+  <sup>1</sup> UESTC&nbsp;&nbsp; <sup>2</sup> SWU&nbsp;&nbsp; <sup>3</sup> SUAT<br>
   <sup>†</sup> Corresponding authors.<br>
 
   <h4>
