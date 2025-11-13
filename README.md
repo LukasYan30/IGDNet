@@ -23,7 +23,7 @@
 ### Demo
 
 ```bash
-python main.py -task demo -model_task lle/isp -device cuda
+python main.py
 ```
 
 ### Contact
@@ -34,11 +34,11 @@ If you have any questions, please contact me by e-mail (yanhailong@std.uestc.edu
 If you find the code helpful in your research or work, please cite the following paper:
 
 ```
-@InProceedings{yan2025igdnet,
-    author    = {Yan, Hailong and Huang, Junjian, Huang, Tingwen},
-    title     = {IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising},
-    booktitle = {IEEE Transactions on Artificial Intelligence},
-    month     = {November},
-    year      = {2025},
+@article{yan2025igdnet,
+    title={IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising},
+    author={Yan, Hailong and Huang, Junjian, Huang, Tingwen},
+    journal={IEEE Transactions on Artificial Intelligence},
+    year={2025},
+    publisher={IEEE}
 }
 ```
