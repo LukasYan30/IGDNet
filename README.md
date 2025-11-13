@@ -1,4 +1,4 @@
-<h1 align="center">[IEEE TAI] IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising</h1>
+<h1 align="center">IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising</h1>
 
 <div align="center">
   <hr>
