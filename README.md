@@ -4,7 +4,7 @@
   <hr>
   Hailong Yan<sup>1</sup>&nbsp;
   Junjian Huang<sup>2,†</sup>&nbsp;
-  Tingwen Huang, <i>Fellow, IEEE</i><sup>3</sup>&nbsp;
+  Tingwen Huang<sup>3</sup>, <i>Fellow, IEEE</i>&nbsp;
   <br>
   <sup>1</sup> UESTC&nbsp;&nbsp; <sup>2</sup> SWU&nbsp;&nbsp; <sup>3</sup> SUAT<br>
   <sup>†</sup> Corresponding authors.<br>
