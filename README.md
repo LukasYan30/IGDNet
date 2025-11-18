@@ -23,7 +23,7 @@
 ### Demo
 
 ```bash
-python main.py
+python pipeline.py
 ```
 
 ### Citation
